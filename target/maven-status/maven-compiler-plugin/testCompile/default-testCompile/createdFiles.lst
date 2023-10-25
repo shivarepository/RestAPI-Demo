@@ -1,0 +1,7 @@
+testautomation\apitesting\utils\FileNameConstatnts.class
+testautomation\apitesting\tests\PostAPIRequestUsingTextFile.class
+testautomation\apitesting\tests\GetAPIRequest.class
+testautomation\apitesting\tests\PostAPIRequest.class
+testautomation\apitesting\tests\PostAPIRequestPojoMethods.class
+testautomation\apitesting\tests\PutAPIRequest.class
+testautomation\apitesting\utils\ExcelOperations.class
